@@ -3,7 +3,9 @@
 Proposta para construção de pipeline ETL
 
 E - Extract    | Extrair dados
+
 T - Transform  | Manipular os dados
+
 L - Load       | Realizar dos dados em ambientes específicos.
 
 1. [E] Primeiro foi extraído dados de usuários a partir da API [Santander](https://sdw-2023-prd.up.railway.app).
