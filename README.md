@@ -6,7 +6,7 @@ Proposta para construção de pipeline ETL
 
 [T] - Transform  | Manipular os dados
 
-[L] - Load       | Realizar persistência/trasnferência dos dados em ambientes específicos.
+[L] - Load       | Realizar persistência/transferência dos dados em ambientes específicos.
 
 1. [E] Primeiro foi extraído dados de usuários a partir da API [Santander](https://sdw-2023-prd.up.railway.app).
 2. [T] Foram adicionadas informações de notícias no dados do usuário.
